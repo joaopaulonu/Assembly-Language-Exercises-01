@@ -1,4 +1,4 @@
-# Assembly-Language-Exercises-
+# Assembly-Language-Exercises-01
 
 This repository showcases a set of 6 practical exercises developed in Assembly language for the Computer Systems Organization course at Pontifical Catholic University of Campinas (PUC-Campinas). Under the guidance of Professor Ricardo Pannain, these exercises provide a hands-on introduction to low-level programming for DOS environments, covering essential concepts from basic console interaction to more complex logic and arithmetic.
 
