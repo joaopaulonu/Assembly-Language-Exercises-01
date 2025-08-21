@@ -26,3 +26,7 @@ This code introduces input validation by asking the user to type exactly 5 chara
 The most complex program in the series, functioning as a basic single-digit addition calculator. It prompts for two numbers (0-9), calculates their sum, displays the result (handling two-digit sums like 18), and validates if the sum is greater than or equal to 9, displaying "Correto!" or "Incorreto!".
 
 These exercises collectively provide an excellent foundation in Assembly programming for DOS, covering text display, data input, loops, conditionals, and basic arithmetic manipulation.
+
+📬 Contact Me:
+
+<div align="center"> <a href="https://www.linkedin.com/in/nunes-andrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://instagram.com/jp_nunes.andrade" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="mailto:jpnunesandrade26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://api.whatsapp.com/send?phone=5519995837955" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> <a href="https://www.alura.com.br/indica-dev/jpnunesandrade26" target="_blank"><img src="https://img.shields.io/badge/Alura-0077B5?style=for-the-badge&logo=alura&logoColor=white"></a> </div>
